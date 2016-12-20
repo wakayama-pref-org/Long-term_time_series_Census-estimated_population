@@ -1,4 +1,4 @@
-# Long-term_time_series_Census-estimated_population
+# long-term_time_series_census-estimated_population
 【和歌山県　長期時系列　国勢調査・推計人口です。】
 ◆国勢調査・推計人口とは
  直近の国勢調査による人口及び世帯数を基礎に、各市町村からの報告による住民基本台帳登録者等の 増減を加算して算出した毎年１０月１日現在の人口等。
